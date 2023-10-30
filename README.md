@@ -1,4 +1,10 @@
 # CS665-HW3
+| CS-665       | Software Design & Patterns |
+|--------------|----------------------------|
+| Name         | Jingfan Hu                 |
+| Date         | 10/30/2023                 |
+| Course       | Fall                       |
+| Assignment # | 3                          |
 # Email Generation Application
 
 This is an implementation of an "Email Generation" application that serves various customer segments, including Business, Returning, Frequent, New, and VIP. The application generates personalized emails based on a base template tailored to each type of customer.
